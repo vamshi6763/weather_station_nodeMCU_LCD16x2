@@ -10,8 +10,8 @@ const char* ssid = "WIFI_SSID";
 const char* password = "WIFI_PSWD";
 
 String openWeatherMapApiKey = "xxxxxxxxxxxxxxxxxxxxxxxxx";  //API key
-String city = "Warangal";
-String countryCode = "IN";
+String city = "xxxxxxxx";
+String countryCode = "xx";
 
 unsigned long lastTime = 0;
 unsigned long timerDelay = 10000;
